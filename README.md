@@ -1,6 +1,6 @@
 ## Hey!
 
-I am a student at the University of Colorado at Boulder pursuing a B.A. in Computer Science with plans of pursuing a M.S. in Data Science starting in January 2024 with an estimated completion date of December 2024. I'm seeking an internship for the upcoming semester that will enable me to develop as a programmer and software engineer. 
+I am a student at the University of Colorado at Boulder (sko buffs) pursuing a B.A. in Computer Science with plans of pursuing a M.S. in Data Science starting in January 2024 with an estimated completion date of December 2024. I'm seeking an internship for the upcoming semester that will enable me to develop as a programmer and software engineer. 
 
 I encourage you to check out the code for Music Recommendation Engine, Newsic, the travel website I built with my girlfriend, or my lightweight data science library that utilizes compiled C++ code to accelerate machine learning methods.
 
